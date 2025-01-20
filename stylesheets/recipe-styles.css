@@ -3,7 +3,7 @@
     color:white;
     text-align:center;
 }
-
+/* fixes proportions, image to large without */
 .cookies-img{
     height:600px;
     width:400px;
