@@ -1,0 +1,20 @@
+.mainheader{
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+
+.cookies-img{
+    height:600px;
+    width:400px;
+}
+
+.headerfont,
+.mainheader{
+   font-family:cursive, "Brush Script MT", sans-serif; 
+}
+
+p,
+li{
+    font-family:serif, "Times New Roman", sans-serif;
+}

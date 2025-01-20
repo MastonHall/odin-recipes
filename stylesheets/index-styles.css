@@ -1,0 +1,16 @@
+#mainheader{
+    text-align:center;
+    color:white;
+    background-color:black;
+    font-family:cursive,"Brush Script MT", sans-serif;
+    font-size:50px
+}
+
+#mainheader,
+#listheader {
+    font-family:cursive,"Brush Script MT", sans-serif;
+}
+
+#listheader{
+    font-size:30px;
+}
