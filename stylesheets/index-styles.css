@@ -3,7 +3,11 @@
     color:white;
     background-color:black;
     font-family:cursive,"Brush Script MT", sans-serif;
-    font-size:50px
+    font-size:50px;
+    margin:16px auto;
+    width:700px;
+    height:auto;
+    border:10px solid lightgray;
 }
 
 #mainheader,
@@ -13,4 +17,39 @@
 
 #listheader{
     font-size:30px;
+    text-align:center;
+    
+    
+}
+
+.listdiv{
+    text-align:center;
+}
+
+.list{
+    display:block;
+    margin: 16px auto;
+    width:200;
+    padding:10px;
+    text-align:center;
+
+}
+
+ul{
+    text-align:left;
+    list-style-type:none;
+}
+
+li{
+    width:200;
+    height:auto;
+    font-size: 40px;
+    background-color: lightslategray;
+    padding: 30px;
+    margin: 20px;
+    border: 5px solid lightgray;
+}
+
+.body{
+    background-color: lightblue;
 }

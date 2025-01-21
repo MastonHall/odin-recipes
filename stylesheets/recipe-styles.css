@@ -2,11 +2,18 @@
     background-color:black;
     color:white;
     text-align:center;
+    width:500px;
+    height:auto;
+    margin: 16px auto;
+    padding:20px;
+    border: 10px solid lightgray;
 }
 /* fixes proportions, image to large without */
-.cookies-img{
-    height:600px;
-    width:400px;
+img{
+    display:block;
+    height:500px;
+    width:500px;
+    margin: 16px auto;
 }
 
 .headerfont,
@@ -17,4 +24,30 @@
 p,
 li{
     font-family:serif, "Times New Roman", sans-serif;
+}
+
+body{
+    background-color:lightblue;
+}
+
+a{
+    background-color:rgb(223, 220, 220);
+    padding:5px;
+    font-size:20px;
+    border:1px solid lightgray;
+}
+
+.headerlook{
+    margin: 16px auto;
+    background-color: lightgray;
+    padding: 10px;
+    width:400px;
+    height:auto;
+    text-align:center;
+    border: 2px solid gray;
+}
+
+p{
+    text-align: center;
+    font-size:19px;
 }
